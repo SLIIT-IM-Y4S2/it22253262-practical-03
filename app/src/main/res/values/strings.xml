@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab_3</string>
+    <string name="hint_num1">Enter Number 1</string>
+    <string name="hint_num2">Enter Number 2</string>
+    <string name="btn_add">+</string>
+    <string name="btn_sub">-</string>
+    <string name="btn_mul">x</string>
+    <string name="btn_div">/</string>
+    <string name="btn_back">Back</string>
+    <string name="answer_format">Answer: %1$.1f</string>
+    <string name="error_divide_by_zero">Cannot divide by zero</string>
+    <string name="error_empty_inputs">Please enter both numbers</string>
+</resources>
